@@ -9,7 +9,7 @@ body {
     gap: 20px;
 }
 
-.prompt-button{
+#clearButton{
     padding: 15px 30px;
     font-size: 18px;
     background-color: #ff6b6b;
