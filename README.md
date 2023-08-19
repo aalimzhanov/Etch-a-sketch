@@ -1,1 +1,1 @@
-# First-odin-project
+# Etch-a-sketch
